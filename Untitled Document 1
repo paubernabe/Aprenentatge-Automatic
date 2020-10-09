@@ -13,5 +13,3 @@ Lat, Long no amb LR, si amb KNN
 Els que tinguin Nan fer fill amb valor mitjà (LR)
 
 Variables: type (h,..) en 3 variables
-
-
